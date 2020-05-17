@@ -1,0 +1,13 @@
+C:\Users\Алексей\Desktop\123\game\The game\bin\Release\The game.exe.config
+C:\Users\Алексей\Desktop\123\game\The game\bin\Release\The game.exe
+C:\Users\Алексей\Desktop\123\game\The game\bin\Release\The game.pdb
+C:\Users\Алексей\Desktop\123\game\The game\bin\Release\ClassLibrary.dll
+C:\Users\Алексей\Desktop\123\game\The game\bin\Release\ClassLibrary.pdb
+C:\Users\Алексей\Desktop\123\game\The game\obj\Release\The game.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\123\game\The game\obj\Release\The_game.Form1.resources
+C:\Users\Алексей\Desktop\123\game\The game\obj\Release\The_game.Properties.Resources.resources
+C:\Users\Алексей\Desktop\123\game\The game\obj\Release\The_game.Ruls.resources
+C:\Users\Алексей\Desktop\123\game\The game\obj\Release\The game.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\123\game\The game\obj\Release\The game.csproj.CopyComplete
+C:\Users\Алексей\Desktop\123\game\The game\obj\Release\The game.exe
+C:\Users\Алексей\Desktop\123\game\The game\obj\Release\The game.pdb

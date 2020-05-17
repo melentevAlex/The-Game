@@ -1,0 +1,8 @@
+C:\Users\Алексей\Desktop\123\game\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Алексей\Desktop\123\game\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Алексей\Desktop\123\game\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Алексей\Desktop\123\game\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\123\game\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\123\game\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Алексей\Desktop\123\game\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Алексей\Desktop\123\game\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
